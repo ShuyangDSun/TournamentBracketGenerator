@@ -1,0 +1,60 @@
+<tr class="playerStats">
+    <td class="columnTag rank">1</td>
+    <td class="columnTag">Matthew</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">Roy</td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">2</td>
+    <td class="columnTag">Daniel</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">Kirby</td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">3</td>
+    <td class="columnTag">John</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">Falco</td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">4</td>
+    <td class="columnTag">Sahil</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">Young Link</td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">5</td>
+    <td class="columnTag">Max</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">Captain Falcon</td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">6</td>
+    <td class="columnTag">Teagan</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">Terry</td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">7</td>
+    <td class="columnTag">Charley</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag"></td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">7</td>
+    <td class="columnTag">Jonathan</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">DDD</td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">9</td>
+    <td class="columnTag">Joy</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">Bowser</td>
+</tr>
+<tr class="playerStats">
+    <td class="columnTag rank">9</td>
+    <td class="columnTag">Julian</td>
+    <td class="columnTag">W/L Ratio</td>
+    <td class="columnTag">Samus</td>
+</tr>
