@@ -15,4 +15,4 @@ An application which generates an interactive double elimination style tournamen
 ![select_players](images/enter_match_score.png)
 
 4. Display gets updated
-![select_players](images/updated_to_tournament.png)
+![select_players](images/updated_tournament.png)
